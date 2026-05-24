@@ -1,6 +1,6 @@
 ## Ссылка на проект
 
-```text```
+
 [https://radikozavr.github.io/Osipov-mesto/](https://radikozavr.github.io/Osipov-mesto/)
 
 
